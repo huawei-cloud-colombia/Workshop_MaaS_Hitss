@@ -36,10 +36,9 @@ Configuraremos el acceso a MaaS y conectaremos el modelo con la herramienta de d
 
 En esta etapa configuraremos:
 
-* API Endpoint.
+* Endpoint (Base URL).
 * API Key.
-* Modelo.
-* GitHub Copilot u OpenCode.
+* Modelo(s).
 * Verificación de la conexión.
 
 👉 [Comenzar configuración](./01-Setup/README.md)
@@ -58,15 +57,6 @@ Cada etapa parte del resultado de la etapa anterior.
 
 Comenzaremos construyendo una aplicación completa de gestión de tickets utilizando Streamlit.
 
-La aplicación incluirá:
-
-* Panel de usuario.
-* Panel de administración.
-* Persistencia de tickets.
-* Base de datos local.
-* Gestión de estados.
-* Simulación inicial de procesamiento con IA.
-
 🎯 **Objetivo:** Explorar cómo un AI Coding Agent puede generar una aplicación funcional a partir de requisitos detallados.
 
 👉 [Ir al Step 1](./02-workshop/01-ticket-tracker.md)
@@ -76,13 +66,6 @@ La aplicación incluirá:
 ## 🤖 Step 2 — Add an AI Agent
 
 Evolucionaremos la aplicación existente integrando un AI Agent conectado a un modelo disponible a través de MaaS.
-
-El agente podrá:
-
-* Analizar tickets.
-* Identificar problemas.
-* Generar respuestas.
-* Utilizar un System Prompt especializado.
 
 🎯 **Objetivo:** Integrar un LLM real dentro de una aplicación existente.
 
@@ -94,13 +77,6 @@ El agente podrá:
 
 Ampliaremos las capacidades del agente para que pueda ejecutar un flujo completo de análisis y automatización.
 
-El agente podrá:
-
-* 🧩 Resumir tickets.
-* 🏷️ Categorizar y asignar prioridad.
-* 💡 Proponer soluciones.
-* 📢 Enviar notificaciones reales por correo electrónico.
-
 🎯 **Objetivo:** Explorar cómo un AI Agent puede formar parte de un workflow que combina IA y automatizaciones.
 
 👉 [Ir al Step 3](./02-workshop/03-agent-automation.md)
@@ -110,14 +86,6 @@ El agente podrá:
 ## 🔧 Step 4 — AI Agent + MCP
 
 Transformaremos el flujo interno del agente para utilizar herramientas externas mediante un entorno compatible con MCP.
-
-El agente utilizará herramientas para:
-
-* Consultar documentación.
-* Resumir tickets.
-* Categorizar problemas.
-* Proponer soluciones.
-* Enviar notificaciones.
 
 🎯 **Objetivo:** Entender cómo los agentes utilizan Tools y Context para interactuar con sistemas externos.
 
@@ -215,24 +183,6 @@ Cada etapa:
      │
      └── Step 5: Multi-Agent
 ```
-
----
-
-# 🛠️ Tecnologías
-
-Durante este workshop trabajaremos con:
-
-* Huawei Cloud MaaS
-* Modelos compatibles con OpenAI API
-* GitHub Copilot / OpenCode
-* Python
-* Streamlit
-* SQLite
-* OpenAI SDK
-* Gmail SMTP
-* Model Context Protocol (MCP)
-* AI Agents
-* Multi-Agent Systems
 
 ---
 
