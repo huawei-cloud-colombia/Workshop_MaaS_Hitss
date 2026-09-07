@@ -45,7 +45,7 @@ En esta etapa configuraremos:
 
 ---
 
-# 🧪 2️⃣ Build an Agentic Application
+## 🧪 2️⃣ Build an Agentic Application
 
 Durante el workshop construiremos y evolucionaremos una aplicación de gestión de tickets.
 
@@ -53,7 +53,7 @@ Cada etapa parte del resultado de la etapa anterior.
 
 ---
 
-## 🏗️ Step 1 — Build the Ticket Tracker
+### 🏗️ Step 1 — Build the Ticket Tracker
 
 Comenzaremos construyendo una aplicación completa de gestión de tickets utilizando Streamlit.
 
@@ -63,7 +63,7 @@ Comenzaremos construyendo una aplicación completa de gestión de tickets utiliz
 
 ---
 
-## 🤖 Step 2 — Add an AI Agent
+### 🤖 Step 2 — Add an AI Agent
 
 Evolucionaremos la aplicación existente integrando un AI Agent conectado a un modelo disponible a través de MaaS.
 
@@ -73,7 +73,7 @@ Evolucionaremos la aplicación existente integrando un AI Agent conectado a un m
 
 ---
 
-## ⚡ Step 3 — AI Agent + Automation
+### ⚡ Step 3 — AI Agent + Automation
 
 Ampliaremos las capacidades del agente para que pueda ejecutar un flujo completo de análisis y automatización.
 
@@ -83,7 +83,7 @@ Ampliaremos las capacidades del agente para que pueda ejecutar un flujo completo
 
 ---
 
-## 🔧 Step 4 — AI Agent + MCP
+### 🔧 Step 4 — AI Agent + MCP
 
 Transformaremos el flujo interno del agente para utilizar herramientas externas mediante un entorno compatible con MCP.
 
@@ -93,11 +93,11 @@ Transformaremos el flujo interno del agente para utilizar herramientas externas 
 
 ---
 
-## 🤝 Step 5 — Multi-Agent System
+### 🤝 Step 5 — Multi-Agent System
 
 Finalmente, evolucionaremos el agente único hacia un sistema compuesto por dos agentes especializados.
 
-### 🤖 AI Agent for Analyze
+#### 🤖 AI Agent for Analyze
 
 Responsable de:
 
@@ -106,7 +106,7 @@ Responsable de:
 * Categorizar.
 * Consultar documentación.
 
-### ⚙️ AI Agent for Action
+#### ⚙️ AI Agent for Action
 
 Responsable de:
 
