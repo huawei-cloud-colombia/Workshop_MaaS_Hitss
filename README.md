@@ -42,7 +42,7 @@ En esta etapa configuraremos:
 * GitHub Copilot u OpenCode.
 * Verificación de la conexión.
 
-👉 [Comenzar configuración](./01-connect/README.md)
+👉 [Comenzar configuración](./01-Setup/README.md)
 
 ---
 
