@@ -183,11 +183,3 @@ Cada etapa:
      │
      └── Step 5: Multi-Agent
 ```
-
----
-
-# 🚀 Let's Build!
-
-Comienza configurando tu entorno y conectando MaaS con tu AI Coding Agent.
-
-👉 [Comenzar Workshop →](./01-connect/README.md)
