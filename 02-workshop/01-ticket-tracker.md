@@ -25,8 +25,12 @@ flujo generando respuestas estáticas basadas en palabras clave del ticket.
 
 ## Cómo usar este prompt
 
-1. Copia el bloque de código siguiente completo.
-2. Pégalo como prompt de tu agente de codigo
+1. Copia y pegue el bloque mensaje en su agente de codigo 
+```
+Sigue estas instrucciones:
+1 - Accede al siguiente repositorio de GitHub a traves de su URL: https://github.com/huawei-cloud-colombia/Workshop_MaaS_Hitss/tree/main/02-workshop
+2 - Lee el archivo llamado 01-ticket-tracker.md y ejecuta el prompt que se encuentra en el archivo dentro de la seccion "Prompt"
+```
 3. Una vez el agente genere el archivo `app.py`, instala las dependencias indicadas.
 4. Levanta la aplicación local e interactúa con ambos paneles: reporta un ticket desde el Panel de Usuario y gestioná su estado desde el Panel de Administración.
 
