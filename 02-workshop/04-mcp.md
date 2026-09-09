@@ -31,7 +31,7 @@ de directrices corporativas.
 ```
 Sigue estas instrucciones:
 1 - Accede al siguiente repositorio de GitHub a traves de su URL: https://github.com/huawei-cloud-colombia/Workshop_MaaS_Hitss/tree/main/02-workshop
-2 - Lee el archivo llamado 03-mcp.md y ejecuta el prompt que se encuentra en el archivo dentro de la seccion "Prompt"
+2 - Lee el archivo llamado 04-mcp.md y ejecuta el prompt que se encuentra en el archivo dentro de la seccion "Prompt"
 ```
 3. Una vez el agente haga las modificaciones necesarias inicia la aplicación.
 4. Revisa que en el GUI se muestre el log de ejecución con las herramientas MCP que el agente invoca al analizar un ticket.
