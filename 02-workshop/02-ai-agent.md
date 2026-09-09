@@ -25,8 +25,12 @@ robusto de errores.
 
 ## Cómo usar este prompt
 
-1. Copia el bloque de código siguiente completo.
-2. Pégalo como prompt de tu agente de codigo
+1. Copia y pegue el bloque mensaje en su agente de codigo 
+```
+Sigue estas instrucciones:
+1 - Accede al siguiente repositorio de GitHub a traves de su URL: https://github.com/huawei-cloud-colombia/Workshop_MaaS_Hitss/tree/main/02-workshop
+2 - Lee el archivo llamado 02-ai-agent.md y ejecuta el prompt que se encuentra en el archivo dentro de la seccion "Prompt"
+```
 3. Una vez el agente haga las modificaciones necesarias, verifica que el archivo `.env` esté configurado correctamente.
 4. Inicia la aplicación, selecciona un ticket en el Panel de Administración y presiona el botón de análisis del AI Agent para generar la respuesta automatizada.
 
