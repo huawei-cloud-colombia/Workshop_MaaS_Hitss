@@ -25,7 +25,7 @@ flujo generando respuestas estáticas basadas en palabras clave del ticket.
 
 ## Cómo usar este prompt
 
-1. Copia y pegue el bloque mensaje en su agente de codigo 
+1. Copie y pegue el siguiente mensaje en su agente de codigo 
 ```
 Sigue estas instrucciones:
 1 - Accede al siguiente repositorio de GitHub a traves de su URL: https://github.com/huawei-cloud-colombia/Workshop_MaaS_Hitss/tree/main/02-workshop
